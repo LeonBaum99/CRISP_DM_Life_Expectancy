@@ -21,11 +21,11 @@ The CRISP-DM Framework was applied as followed:
 Use Python Version 3.10+.
 
 Clone the repository and install dependencies:
-`
+```
 git clone https://github.com/<your-username>/life-expectancy-crispdm.git
 cd life-expectancy-crispdm
 pip install -r requirements.txt
-`
+```
 
 
 ## Collaborators
